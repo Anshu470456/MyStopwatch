@@ -15,8 +15,7 @@ Welcome to MyStopwatch App built with React Native! Keep track of time with prec
 
 The Coffee Shop App is a React Native application designed to provide users with a convenient and enjoyable way to explore and purchase different types of coffee and coffee beans. With features like favoriting, various purchasing modes, and an easy-to-use cart, coffee enthusiasts can indulge in their love for quality coffee.
 
-<img src="src/Images/image2.png" alt="MyStopwatch" width="200" height="360">
-<img src="src/Images/image1.png" alt="MyStopwatch" width="200" height="360">
+<img src="src/Images/image2.png" alt="MyStopwatch" width="200" height="360">             <img src="src/Images/image1.png" alt="MyStopwatch" width="200" height="360">
 
 ## Features
 
